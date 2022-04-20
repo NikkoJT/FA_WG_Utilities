@@ -543,7 +543,7 @@ function WeaponDataLoad()
     MainArmory[603] = new Weapon(  1575, 1575,     0,   20,  5,   2,  1.00, "900",   53, "[KE][AOE]", "23mm", "23mm Z-9");
     MainArmory[604] = new Weapon(  1050, 2450,  1750,   25,  0,   0,  1.00, "913",   80, "[AOE][STAT]", "20mm", "TA 20");
     MainArmory[605] = new Weapon(  1050, 2625,  2450,   30,  5,   0,  1.00, "1031",  120, "[AOE][RAD]", "30mm", "HSS.831");
-    MainArmory[609] = new Weapon(   455,    0,     0,   60,  0,   0,  1.00, "72",   90, "[AOE][STAT]", "40mm FRAG", "Hawk mm1");
+    MainArmory[609] = new Weapon(   455,    0,     0,   60,  0,   0,  1.00, "72",   90, "[AOE][STAT]", "40mm FRAG", "Hawk MM1");
     MainArmory[613] = new Weapon(  1050, 2800,  2625,   45, 15,   0,  1.00, "1342",  120, "[AOE][RAD]", "30mm", "Twin 30NK");
     MainArmory[614] = new Weapon(  1050, 2800,  1750,   35,  0,   0,  1.00, "1380",  120, "[AOE][STAT]", "30mm", "2A38M");
     MainArmory[615] = new Weapon(  2100, 1575,  2100,   30, 30,   0,  1.00, "1499",   40, "[AOE]", "20mm", "Twin M39A2");
